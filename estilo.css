@@ -1,0 +1,12 @@
+body{background-color: chartreuse;
+}
+
+h1 {
+    color:darkgoldenrod;
+    text-align: center;
+}
+
+p{
+    color:red;
+    text-align: justify;
+}
